@@ -1,0 +1,32 @@
+# R
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+*.Rproj
+.httr-oauth
+
+# Data (downloaded by script 00)
+/data/
+
+# Figures
+/figures/
+
+# Large session files
+*.RData
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+*~
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
