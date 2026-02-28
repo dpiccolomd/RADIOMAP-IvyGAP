@@ -1,0 +1,8 @@
+"rad_col","feature","n_folds","pct_folds","feature_name"
+"rad_1763","z_rad_1763",28,100,"T2_T2_GLSZM_Bins-16_Radius-2_GreyLevelNonUniformityNormalized"
+"rad_1872","z_rad_1872",28,100,"T2_T2_GLSZM_Bins-16_Radius-3_GreyLevelNonUniformityNormalized"
+"rad_1920","z_rad_1920",28,100,"T2_T2_GLSZM_Bins-64_Radius-3_ZoneSizeEntropy"
+"rad_1363","z_rad_1363",27,96.4285714285714,"T2_T2_Histogram_Bins-64_Kurtosis"
+"rad_1956","z_rad_1956",27,96.4285714285714,"T2_T2_GLSZM_Bins-128_Radius-3_ZoneSizeEntropy"
+"rad_163","z_rad_163",1,3.57142857142857,"T1_T1_Histogram_Bins-16_Kurtosis"
+"rad_2077","z_rad_2077",1,3.57142857142857,"T1ce_T1Gd_Intensity_QuartileCoefficientOfVariation"

@@ -1,0 +1,25 @@
+pw_col,pathway_name,category,n_univariate_features,status,R2_marginal,LRT_p,FDR
+pw_1,Hypoxia,Hallmark,46,Tested in LMM,0.847,0.0848,0.223
+pw_2,Angiogenesis,Hallmark,1,Tested in LMM,0.459,0.0529,0.223
+pw_3,EMT,Hallmark,21,Tested in LMM,0.409,0.1758,0.234
+pw_4,Inflammatory_Response,Hallmark,24,FDR<0.05,0.384,0.0010,0.012
+pw_5,TNFA_NFkB,Hallmark,22,Tested in LMM,0.610,0.3522,0.423
+pw_6,IL6_JAK_STAT3,Hallmark,0,No features at FDR<0.10,NA,NA,NA
+pw_7,IFN_Gamma,Hallmark,0,No features at FDR<0.10,NA,NA,NA
+pw_8,P53_Pathway,Hallmark,23,Tested in LMM,0.533,0.1008,0.223
+pw_9,MYC_V1,Hallmark,0,No features at FDR<0.10,NA,NA,NA
+pw_10,E2F_Targets,Hallmark,0,No features at FDR<0.10,NA,NA,NA
+pw_11,G2M_Checkpoint,Hallmark,0,No features at FDR<0.10,NA,NA,NA
+pw_12,mTORC1,Hallmark,3,Tested in LMM,0.694,0.1326,0.223
+pw_13,Glycolysis,Hallmark,21,Tested in LMM,0.804,0.1115,0.223
+pw_14,OxPhos,Hallmark,3,Tested in LMM,0.344,0.8002,0.800
+pw_15,Complement,Hallmark,21,Tested in LMM,0.208,0.1484,0.223
+pw_16,Neftel_MES,Neftel,2,Tested in LMM,0.562,0.1332,0.223
+pw_17,Neftel_AC,Neftel,0,No features at FDR<0.10,NA,NA,NA
+pw_18,Neftel_OPC,Neftel,0,No features at FDR<0.10,NA,NA,NA
+pw_19,Neftel_NPC,Neftel,0,No features at FDR<0.10,NA,NA,NA
+pw_20,IvyGAP_CT_module,IvyGAP Zone,0,No features at FDR<0.10,NA,NA,NA
+pw_21,IvyGAP_CTmvp_module,IvyGAP Zone,0,No features at FDR<0.10,NA,NA,NA
+pw_22,IvyGAP_CTpan_module,IvyGAP Zone,5,Tested in LMM,0.902,0.7731,0.800
+pw_23,IvyGAP_IT_module,IvyGAP Zone,0,No features at FDR<0.10,NA,NA,NA
+pw_24,IvyGAP_LE_module,IvyGAP Zone,0,No features at FDR<0.10,NA,NA,NA
